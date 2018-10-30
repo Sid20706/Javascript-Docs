@@ -4,6 +4,10 @@
 
 JavaScript is not Object oriented, it is Object based.
 
+Common way to declare objects. Objects are compared by reference
+
+let myObj = { world: "Earth" };
+
 var n = 10;
 
 here n is an object initialized to the value 10.
